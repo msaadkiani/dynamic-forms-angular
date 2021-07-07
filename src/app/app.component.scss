@@ -1,0 +1,43 @@
+.main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 400px;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+}
+
+input
+{
+    max-width: 400px;
+}
+
+button
+{
+    max-width: 200px;
+}
+
+.mt-16
+{
+    margin-top: 16px;
+}
+
+.mt-50
+{
+    margin-top: 50px;
+}
+
+.ml-8
+{
+    margin-left: 8px;
+}
+
+.error
+{
+    background-color: red;
+}
